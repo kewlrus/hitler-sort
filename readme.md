@@ -1,13 +1,13 @@
 
-# Welcome to the Stalin Sort Repo :clipboard:
+# Welcome to the Hitler Sort Repo :clipboard:
 
 ![poster](stalin-sort.jpeg)
 
-## What is Stalin Sort? :question:
+## What is Hitler Sort? :question:
 
 ### Introduction
 
-Stalin Sort is an efficient sorting algorithm, serving as a systematic method for placing the elements of a random access file or an array in order. Stalin Sort is also know as the best sorting algorithm of all times because of its AMAZING capacity of always ordering an array with an O(n) performance.
+Hitler Sort is an efficient sorting algorithm, serving as a systematic method for placing the elements of a random access file or an array in order. Hitler Sort is also know as the best sorting algorithm of all times because of its AMAZING capacity of always ordering an array with an O(n) performance.
 
 ### How it works?
 
@@ -27,7 +27,7 @@ It's simple, all you need to do is iterate through the array, checking if its el
 Keep in mind that this is pseudocode, and is just an example. We strongly encourage you to code a different approach. 
 
 ```
-FUNCTION stalinSort(A : list OF sortable items)
+FUNCTION hitlerSort(A : list OF sortable items)
     n := length(A)
     bigger := 0
     B SET empty list
@@ -51,6 +51,6 @@ Please check the [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## About
 
-> Stalin sort began first as a Hacktoberfest 2018 repo
+> Hitler sort began first as a Hacktoberfest 2018 repo
 
 Hacktoberfest is a program organised by Digital Ocean and Github, where you can easily win a T-Shirt just by making 5 pull requests in the month of October to any open source projects on Github.
